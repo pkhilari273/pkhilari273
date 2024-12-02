@@ -1,0 +1,6 @@
+After reading the project statement 
+1st was to get the person to enter his name and age details
+then after getting the input the calculation of age into various units was to be done
+after the calculation assigning the varialble for each age unit is done
+after assigning the variable to age unit the input from user is required 
+after getting the unit input from the user the if syntax is used to print the final desired output
